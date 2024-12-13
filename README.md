@@ -69,7 +69,7 @@ Prepare a JSON file (e.g., `users.json`) with user details. The structure should
 
 Run the script using:
 ```bash
-python script.py
+python users.py
 ```
 The script will:
 - Load users from the specified JSON file.
