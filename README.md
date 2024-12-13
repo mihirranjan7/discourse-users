@@ -120,7 +120,3 @@ This project is completely free to use and distribute.
 Feel free to fork this repository and submit pull requests for improvements or bug fixes.
 
 ---
-
-## Contact
-For questions or support, contact [your_email@example.com].
-
